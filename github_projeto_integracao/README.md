@@ -1,6 +1,5 @@
 # Projeto de Integração entre APIs
 
-Este repositório contém o trabalho completo solicitado pelo professor.
 
 ## 📄 Conteúdos incluídos
 
@@ -32,4 +31,3 @@ pip install -r requirements_client.txt
 python cliente.py
 ```
 
-## ✔ Está tudo pronto para ser enviado ao GitHub!
